@@ -5,7 +5,7 @@
 
 - 📫 You can reach me **behii@tutanota.com**
 
-- 🚀 My telegram ![@dr_xz](https://t.me/dr_xz)
+- 🚀 My telegram [@dr_xz](https://t.me/dr_xz)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
