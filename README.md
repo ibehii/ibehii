@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Behnam</h1>
 <h3 align="center">A python programmer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/beh185](https://github.com/beh185)
+- 👨‍💻 All of my projects are available at : [https://github.com/beh185](https://github.com/beh185)
 
-- 📫 You can reach me **behii@tutanota.com**
+- 📫 My e-mail : **behii@tutanota.com**
 
-- 🚀 My telegram [@dr_xz](https://t.me/dr_xz)
+- 🚀 My telegram : [@dr_xz](https://t.me/dr_xz)
 <p align="left">
 </p>
 
@@ -15,4 +15,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beh185&show_icons=true&locale=en" alt="beh185" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beh185&theme=dark" alt="beh185" /></p>
-
