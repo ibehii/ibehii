@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Behnam</h1>
 <h3 align="center">A python programmer</h3>
 
-- 👨‍💻 All of my projects are available at : [https://github.com/beh185](https://github.com/beh185)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/beh185)
 
 - 📫 My e-mail : **behii@tutanota.com**
 
