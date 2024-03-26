@@ -5,7 +5,7 @@
 
 - 📫 My e-mail : **behii@tutanota.com**
 
-- 🚀 My telegram : [@dr_xz](https://t.me/dr_xz)
+- 🚀 My telegram : [@BZHNAM](https://t.me/BZHNAM)
 <p align="left">
 </p>
 
